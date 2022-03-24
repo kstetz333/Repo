@@ -5,3 +5,6 @@ function addItem(){
     itemCounter++;
 
 }
+function printList(){
+    alert("Here is a list of items" , itemArray);
+}
