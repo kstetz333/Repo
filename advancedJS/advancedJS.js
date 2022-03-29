@@ -6,3 +6,4 @@ function changeHeader(event){
 function changeHeaderBack(){
     document.querySelector("#userMessage").innerText = "Waiting";
 }
+//___________________________API For FetchAPI.html_____________________________________________________
